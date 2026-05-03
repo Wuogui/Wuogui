@@ -9,6 +9,6 @@
 </div>
 <br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wuogui&bg_color=0D1117&color=cc51f5&line=bf6fd9&point=dc90f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodriWagner&bg_color=0D1117&color=cc51f5&line=bf6fd9&point=dc90f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br><br><br><br>
